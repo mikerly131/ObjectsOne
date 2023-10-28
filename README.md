@@ -1,6 +1,6 @@
 # ObjectsOne
 
-What's the point of OOP? What's the _object_ of it all?
+What's the point of OOP? What's the _object_ of it all?  Code, eat, sleep, repeat.
 
 ## Java Objects
 
